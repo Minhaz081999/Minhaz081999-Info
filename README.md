@@ -14,10 +14,11 @@
 ---
 
 ## 📌 Featured Projects
-- **Movie App** – Cross‑platform app with search, reviews, and watchlist  
-- **Google Map Project** – Location-based app with markers and camera movement  
-- **Crafty Bay (E‑Commerce App)** – Product catalog, cart, checkout, Firebase auth  
-- **Task Manager** – CRUD operations with clean architecture and Provider   
+- **Movie App** - Mobile Application – Cross‑platform app with search, reviews, and watchlist  
+- **Google Map Project** - Mobile Application – Location-based app with markers and camera movement  
+- **Crafty Bay (E‑Commerce App)** - Mobile Application – Product catalog, cart, checkout, Firebase auth  
+- **Task Manager** - Mobile Application – CRUD operations with clean architecture and Provider
+- **Currency Converter** – Desktop Application – Real‑time exchange rate calculations with JavaFX UI
 
 ---
 
